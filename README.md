@@ -1,4 +1,4 @@
-# CMP320-Mini-Project
+# keylogger-virtual-keyboard-investigation
  An Investigation into Software Keylogger Effectivess of Virtual Keyboards
 
 ## Overview
